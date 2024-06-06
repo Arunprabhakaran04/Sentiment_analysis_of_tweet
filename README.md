@@ -6,8 +6,11 @@ Objective:
 The primary objective of this project is to compare the performance of different deep learning architectures for sentiment analysis of Twitter data. The project focuses on three main approaches:
 
 LSTM (Long Short-Term Memory) Model: This model utilizes LSTM cells, a type of recurrent neural network (RNN), to capture sequential dependencies in the Twitter text data.
+
 GRU (Gated Recurrent Unit) Model: Similar to the LSTM model, this approach employs GRU cells, which are a variant of RNNs, to learn the sentiment patterns present in the Twitter data.
+
 Transfer Learning: This approach leverages pre-trained language models, such as BERT (Bidirectional Encoder Representations from Transformers), to extract features from the Twitter text data and perform sentiment analysis.
+
 Key Features:
 
 The project provides a comprehensive comparison of the performance, accuracy, and computational efficiency of the LSTM, GRU, and transfer learning models for sentiment analysis.
